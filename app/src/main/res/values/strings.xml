@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">tictactoe</string>
+    <string name="heading">welcome to tictactoe</string>
+    <string name="grid">main grid</string>
+    <string name="reset">resetv game</string>
+</resources>
